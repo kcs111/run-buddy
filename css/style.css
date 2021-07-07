@@ -74,6 +74,7 @@ section {
 /* Hero Style End */
 .hero-form {
   background-color: #fce138;
+  margin: auto;
   padding: 20px;
   width: 500px;
   color: #024e76;
